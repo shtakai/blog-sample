@@ -1,6 +1,6 @@
 # blog sample
 
-[![Build Status](https://travis-ci.org/efkbook/blog-sample.svg?branch=master)](https://travis-ci.org/efkbook/blog-sample)
+[![Build Status](https://travis-ci.org/efkbook/blog-sample.svg?branch=master)](https://travis-ci.org/efkbook/blog-sample) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/blog-sample.svg)](https://www.guardrails.io)
 
 A kind of blog for presentating EFK stack features.
 
